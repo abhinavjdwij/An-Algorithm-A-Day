@@ -17,7 +17,7 @@ using namespace std;
 
 1. Basic: https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
 2. Simple Variation: https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/
-3. Advanced Variation: https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/
+3. Advanced 2-D Variation: https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/
 
 */
 
