@@ -37,7 +37,7 @@ std::vector<int> pre() { // calculate all primes upto 10^6
 			v.pb(i);
 	}
 	return v;
-} // O (log(log(n)))
+} // O (n*log(log(n)))
 
 int main() {
 	std::vector<int> primes = pre();
